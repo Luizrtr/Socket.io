@@ -29,7 +29,7 @@ Para instalar o Chat, siga estas etapas:
 
 Linux e macOS:
 
-# Client
+## Client
 ```
 yarn
 ```
@@ -42,7 +42,7 @@ yarn add socketio
 yarn start
 ```
 
-# Client
+## Server
 
 ```
 npm i
