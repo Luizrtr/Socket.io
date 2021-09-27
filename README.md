@@ -60,4 +60,3 @@ yarn start
 
 Esse projeto está sob licença.
 
-[⬆ Voltar ao topo](#Socket)<br>
