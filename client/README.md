@@ -1,6 +1,6 @@
 # Socket IO - Chat
 
-<!-- <img src="exemplo-image.png" alt="exemplo imagem"> -->
+<img src="https://github.com/Luizrtr/Socket.io/blob/main/src/assets/exemple.png?raw=true" alt="exemplo imagem">
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
@@ -60,4 +60,3 @@ yarn start
 
 Esse projeto está sob licença.
 
-[⬆ Voltar ao topo](#Socket)<br>
