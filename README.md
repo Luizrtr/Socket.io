@@ -20,8 +20,8 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 
-- Você instalou a versão mais recente de `<typescript / yarn>` , `<socketio / yarn>`
-- Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
+- Você instalou a versão mais recente de `typescript / yarn` , `socketio / yarn`,`twin.macro / yarn` 
+- Você tem uma máquina `Windows / Linux / Mac`. Indique qual sistema operacional é compatível / não compatível.
 
 ## 🚀 Instalando SocketIO - Chat
 
