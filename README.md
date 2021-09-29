@@ -1,6 +1,6 @@
 # Socket IO - Chat
 
-<img src="https://github.com/Luizrtr/Socket.io/blob/main/src/assets/exemple.png?raw=true" alt="exemplo imagem">
+<img src="https://github.com/Luizrtr/Socket.io/blob/main/client/src/assets/exemple.png?raw=true" alt="exemplo imagem">
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
@@ -29,6 +29,7 @@ Para instalar o Chat, siga estas etapas:
 
 Linux e macOS:
 
+## Client
 ```
 yarn
 ```
@@ -40,6 +41,21 @@ yarn add socketio
 ```
 yarn start
 ```
+
+## Server
+
+```
+npm i
+```
+
+```
+npm i socket.io
+```
+
+```
+npm start
+```
+
 
 ## 🤝 Colaboradores
 
