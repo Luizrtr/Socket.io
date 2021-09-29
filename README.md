@@ -76,4 +76,4 @@ npm start
 
 Esse projeto está sob licença.
 
-[⬆ Voltar ao topo](#socket-io)<br>
+[⬆ Voltar ao topo](#socket-io---chat)<br>
