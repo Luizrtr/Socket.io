@@ -1,4 +1,3 @@
-/src/uploads/*
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -23,9 +22,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 yarn.lock
-*.log
 
 .eslintcache
-package-lock.json
-package-lock.json
-src/uploads/ask/1625752982689-export.csv
+.eslintcache*
+/.eslintcache
+/public/files/*
