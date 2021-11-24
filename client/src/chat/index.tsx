@@ -1,10 +1,12 @@
 import React from "react";
+import "twin.macro";
+
 import { Container, Seach } from "./styles";
 
 export const Chat: React.FC = () => {
   return (
     <Container>
-      <ul>
+      <ul tw="bg-black">
         <Seach>
           <input type="search" name="serch" placeholder="Search" />
           <button type="submit">
